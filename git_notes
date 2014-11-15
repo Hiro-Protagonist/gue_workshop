@@ -1,0 +1,437 @@
+    1  traceroute google.com
+    2  winetricks msxml6
+    3  winetricks vcrun2005
+    4  winetricks vcrun2005sp1
+    5  winetricks vcrun2008
+    6  winetricks ie6
+    7  winetricks fontsmooth-rgb
+    8  winetricks gecko
+    9  cd /home/downloads
+   10  cd downloads
+   11  cd /downloads
+   12  cd \downloads
+   13  cd home\downloads
+   14  cd home\cratcliff
+   15  cd /home/cratcliff/downloads
+   16  cd /home
+   17  cd /cratcliff
+   18  cd /home/cratcliff
+   19  cd /home/cratcliff/Downloads
+   20  cd /home/cratcliff/Downloads/Photoshop
+   21  cd /home/cratcliff/Downloads/Photoshop/Adobe CS6
+   22  cd /home/cratcliff/Downloads/Photoshop/CS6
+   23  wine Set-up.exe
+   24  ping google.com
+   25  tracert google.com
+   26  ping google.com
+   27  sudo -h gedit /etc/systemd/logind.conf
+   28  sudo -H gedit /etc/systemd/logind.conf
+   29  sudo apt-add-repository -y "deb http://repository.spotify.com stable non-free"
+   30  sudo apt-add-repository -y "deb http://repository.spotify.com stable non-free" && sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 94558F59 && sudo apt-get update -qq && sudo apt-get install spotify-client
+   31  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+   32  sudo apt-get update
+   33  sudo apt-get install sublime-text
+   34  subl
+   35  lsb_release -a
+   36  uname -a
+   37  file /sbin/init
+   38  system info
+   39  sudo apt-get install python-pip build-essential python-dev
+   40  sudo pip install Glances
+   41  sudo pip install PySensors
+   42  glances
+   43  subl itemDims.js
+   44  ping google.com
+   45  ~/.bashrc
+   46  sudo ~/.bashrc
+   47  home/.bashrc
+   48  alias p='nautilus /home/cratcliff/.config/sublime-text-2/Packages'
+   49  p
+   50  alias p="file:///home/cratcliff/.config/sublime-text-2/Packages"
+   51  p
+   52  alias p="~/.config/sublime-text-2/Packages"
+   53  p
+   54  nautilus ~/.config/sublime-text-2/Packages
+   55  nautilus /.config/sublime-text-2/Packages
+   56  nautilus home/.config/sublime-text-2/Packages
+   57  nautilus /.config/sublime-text-2/Packages
+   58  nautilus ~/.config/sublime-text-2/Packages
+   59  p='nautilus ~/.config/sublime-text-2/Packages
+   60  '
+   61  p
+   62  /home/cratcliff/.config/sublime-text-2/Packages
+   63  nautilus /home/cratcliff/.config/sublime-text-2/Packages
+   64  p= nautilus '/home/cratcliff/.config/sublime-text-2/Packages'
+   65  p
+   66  p=nautilus
+   67  p
+   68  sudo gedit ~/.bashrc
+   69  p
+   70  ls
+   71  ls long
+   72  ls -l
+   73  ls -a
+   74  sudo ls-a
+   75  sudo ls -a
+   76  ls -a -l
+   77  sudo ls -a -l
+   78  clear
+   79  ls /downloads
+   80  ls /pictures
+   81  ls \pictures
+   82  subl
+   83  glances
+   84  pwd
+   85  ls
+   86  cd downloads
+   87  cd /downloads
+   88  cd Downloads
+   89  cd ..
+   90  cd Downloads/
+   91  ls
+   92  ls -l
+   93  cd Adobe\ Illustrator\ CC\ 2014\ 64\ bit\ \(crack\)\ \[ChingLiu\]/
+   94  cd ../..
+   95  clear
+   96  less
+   97  ls
+   98  cd Downloads/
+   99  ls
+  100  cd ..
+  101  less itemDims.js 
+  102  more itemDims.js
+  103  clear
+  104  tap itemDims.js
+  105  cat itemDims.js
+  106  clear
+  107  nano itemDims.js
+  108  mv itemDimsNew.js testingConsole.js
+  109  ls
+  110  clear
+  111  cp testingConsole.js
+  112  cp testingConsole.js testingNew.txt
+  113  ls
+  114  clear
+  115  mkdir testing
+  116  ls
+  117  mv testingConsole.js testing
+  118  mv testingNew.js testing
+  119  ls
+  120  mv testingNew.txt testing
+  121  yum install git
+  122  sudo install git
+  123  apt-get install git
+  124  sudo apt-get install git
+  125  git
+  126  git --version
+  127  git init my_first_repository
+  128  ls
+  129  cd my_first_repository
+  130  ls -a
+  131  cd ~
+  132  mv my_first_repository CodeFellowsRepository
+  133  ls
+  134  clear
+  135  ls
+  136  ls -a CodeFellowsRepository/
+  137  nano README
+  138  ls
+  139  git add README
+  140  mv README CodeFellowsRepository/
+  141  cd CodeFellowsRepository/
+  142  git add README
+  143  git commit
+  144  git config --global user.email "colin.ratcliff@gmail.com"
+  145  git config --global user.name "Colin Ratcliff"
+  146  git commit
+  147  nano README 
+  148  git commit
+  149  git commit -a -m
+  150  git commit -a -m "Added project mission statement"
+  151  git status
+  152  nano README 
+  153  git status
+  154  touch file1
+  155  touch file2
+  156  touch file3
+  157  git status
+  158  git add file1
+  159  git add -a
+  160  git add file2
+  161  git commit -m "add new"
+  162  git status
+  163  git add file3
+  164  git commit -m "even more new"
+  165  nano file1
+  166  nano file2
+  167  git status
+  168  git add README
+  169  git commit
+  170  GIT STATUS
+  171  git status
+  172  git commit -a -m "easy peasy"
+  173  ping google.com
+  174  clear
+  175  git status
+  176  nano README
+  177  git status
+  178  git add README 
+  179  git status
+  180  nano file1
+  181  git status
+  182  nano file1
+  183  git status
+  184  git add file4
+  185  git status
+  186  git commit -a -m "lll"
+  187  git status
+  188  clear
+  189  ls
+  190  git log
+  191  subl README 
+  192  git status
+  193  subl README
+  194  git status
+  195  git add README 
+  196  git commit -m "tested editing with sublime text"
+  197  git log
+  198  git checkout c35
+  199  git checkout c35d6bb
+  200  cat file1
+  201  cat README
+  202  ls
+  203  git checkout master
+  204  cat file1
+  205  git log
+  206  git checkout 53337
+  207  cat README
+  208  git checkout master
+  209  git diff 53337 dbb65
+  210  git checkout HEAD~2
+  211  git log
+  212  git checkout master
+  213  git log
+  214  git branch testing_branch
+  215  git status
+  216  git checkout testing_branch
+  217  git status
+  218  git add README 
+  219  git status
+  220  nano README
+  221  git add README 
+  222  git status
+  223  git commit -m "just committed first README edit to this branch"
+  224  git status
+  225  git log
+  226  git checkout master
+  227  git log
+  228  git checkout testing_branch 
+  229  git log
+  230  clear
+  231  git checkout -b newest_testing
+  232  git status
+  233  git log
+  234  git branch
+  235  nano file1
+  236  git status
+  237  git commit -a -m "asd"
+  238  git status
+  239  git branch
+  240  git checkout master
+  241  git branch
+  242  git branch -a
+  243  git branch -D newest_testing
+  244  git branch
+  245  ls
+  246  git log
+  247  git branch
+  248  git checkout testing_branch
+  249  git log
+  250  nano README 
+  251  git checkout master
+  252  cat README 
+  253  git checkout HEAD 
+  254  git log
+  255  clear
+  256  git merge testing_branch 
+  257  git log
+  258  nano README
+  259  checkout testing_branch
+  260  git checkout testing_branch 
+  261  nano README
+  262  cat README 
+  263  git checkout master
+  264  cat README 
+  265  git checkout testing_branch 
+  266  cat README 
+  267  git status
+  268  git commit -a -m "salkj"
+  269  cat README
+  270  git checkout master 
+  271  cat README 
+  272  nano file2
+  273  git commit -a -m "committed file2"
+  274  git checkout testing_branch 
+  275  nano file2
+  276  git commit -a -m "changed file2 on testing"
+  277  git status
+  278  git log
+  279  git checkout master 
+  280  git log
+  281  git merge testing_branch 
+  282  git checkout testing_branch 
+  283  nano file2
+  284  git commit -a -m "this is the right one"
+  285  git checkout master
+  286  git merge file2
+  287  git merge testing_branch 
+  288  cat file2
+  289  git branch
+  290  git status
+  291  git checkout testing_branch 
+  292  git status
+  293  git checkout master
+  294  git merge testing_branch 
+  295  clear
+  296  ls -a
+  297  mv -a GitTraining
+  298  mv .git GitTraining
+  299  mv README GitTraining
+  300  mv file1 GitTraining/
+  301  mv file2 GitTraining/
+  302  mv file3 GitTraining/
+  303  mv file4 GitTraining/
+  304  cd GitTraining/
+  305  ls -a
+  306  git status
+  307  git init
+  308  git status
+  309  mv README ..
+  310  mv file1 ..
+  311  mv file2..
+  312  mv file2 ..
+  313  mv file3 ..
+  314  mv file4 ..
+  315  mv .git ..
+  316  cd ..
+  317  ls -a
+  318  rm GitTraining
+  319  rm -r GitTraining
+  320  git status
+  321  git -D GitTraining
+  322  cd ..
+  323  mkdir CodeFellows
+  324  mv CodeFellowsRepository CodeFellows
+  325  cd CodeFellows/
+  326  mv CodeFellowsRepository GitTraining
+  327  ls
+  328  git clone GitTraining
+  329  git clone GitTraining GitTraining2
+  330  ls
+  331  cd GitTraining2
+  332  ls
+  333  cd ..
+  334  cd GitTraining
+  335  ls
+  336  rm GitTraining
+  337  rm -r GitTraining
+  338  ls
+  339  rm GitTraining
+  340  rm -r GitTraining
+  341  y
+  342  ls
+  343  cd ..
+  344  ls
+  345  rm GitTraining2
+  346  rm -r GitTraining2
+  347  ls
+  348  git clone GitTraining
+  349  git clone GitTraining2
+  350  git clone GitTraining GitTraining2
+  351  ls
+  352  cd GitTraining
+  353  ls
+  354  ..
+  355  git status
+  356  git add -a
+  357  git -a add
+  358  git add -A
+  359  git status
+  360  git commit
+  361  git status
+  362  cd ..
+  363  ls
+  364  rm -r GitTraining2
+  365  git clone GitTraining
+  366  git clone GitTraining GitTraining2
+  367  cd GitTraining2
+  368  cd ..
+  369  mv GitTraining2 2ndGitTraining
+  370  ls
+  371  cd 2ndGitTraining/
+  372  git status
+  373  git remote
+  374  cd ../GitTraining/
+  375  git remote
+  376  git status
+  377  clear
+  378  cd ../2ndGitTraining/
+  379  git checkout -b new_feature
+  380  git branch
+  381  nano file2
+  382  git commit -a -m "Edit file 2 for new features"
+  383  git push new_feature
+  384  git push origin new_feature
+  385  git pull origin
+  386  git pull origin new_feature
+  387  cd ..
+  388  cd GitTraining/
+  389  git remote add origin git@github.com:Hiro-Protagonist/GitTrainingPrework.git
+  390  git push -u origin master
+  391  git push -u -F  origin master
+  392  git push -u -f  origin master
+  393  git remote add origin https://github.com/Hiro-Protagonist/GitTrainingPrework.git
+  394  git push -u origin master
+  395  git remote add origin https://github .com/Hiro-Protagonist/GitTrainingPrework.git
+  396  git remote add origin https://github.com/Hiro-Protagonist/GitTrainingPrework.git
+  397  git remote set-url origin https://github.com/Hiro-Protagonist/GitTrainingPrework.git
+  398  git push -u origin master
+  399  git clone https://github.com/Hiro-Protagonist/sea-w21-git
+  400  cd ..
+  401  git clone https://github.com/Hiro-Protagonist/sea-w21-git
+  402  ls
+  403  cd sea-w21-git/
+  404  git branch funny_image
+  405  git checkout funny_image 
+  406  git status
+  407  mkdir Hiro-Protagonist
+  408  ls
+  409  cd Hiro-Protagonist/
+  410  subl README.md
+  411  ls
+  412  subl README.html
+  413  ls
+  414  git add README.html 
+  415  git status
+  416  git commit
+  417  git push origin funny_image
+  418  git pull origin master
+
+  419  glances
+OH HEY THAT'S TRACKING MY USAGE
+
+  420  pwd
+PRESENT WORKING DIRECTORY
+
+  421  history
+SHOWS THE HISTORY OF WHAT YOU'VE DONE
+
+  435  history > my_history.txt
+CREATES THAT TEXT FILE FROM THE HISTORY
+
+Git Push to push to origin
+
+git checkout master to move the head to the end
+
+probably best to use a branch to work from an old commit
+
